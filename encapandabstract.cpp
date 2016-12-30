@@ -1,5 +1,5 @@
 // program to display encapsulation and abstraction
-#include<iostream.h>
+#include<iostream>
 #include<conio.h>
 #include<stdio.h>
 classs employee
